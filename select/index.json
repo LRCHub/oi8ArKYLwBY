@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "かくれんぼ",
+  "base_artist": "AliA",
+  "createdAt": "2025-12-13T09:21:02.714143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かくれんぼ(Acoustic ver.)",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/01_かくれんぼ(Acoustic_ver.)_優里.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "Claris",
+      "has_synced": true,
+      "path": "select/02_かくれんぼ_Claris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/03_かくれんぼ_優里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "かくれんぼ - From THE FIRST TAKE",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/04_かくれんぼ_-_From_THE_FIRST_TAKE_優里.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "はっぴいえんど",
+      "has_synced": true,
+      "path": "select/05_かくれんぼ_はっぴいえんど.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_かくれんぼ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "Whiteberry",
+      "has_synced": true,
+      "path": "select/07_かくれんぼ_Whiteberry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "AliA",
+      "has_synced": true,
+      "path": "select/08_かくれんぼ_AliA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "かくれんぼ - hide-and-seek",
+      "artist": "AliA",
+      "has_synced": true,
+      "path": "select/09_かくれんぼ_-_hide-and-seek_AliA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "「かくれんぼ」(Kakurenbo)",
+      "artist": "AliA",
+      "has_synced": true,
+      "path": "select/10_「かくれんぼ」(Kakurenbo)_AliA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "Happy End",
+      "has_synced": true,
+      "path": "select/11_かくれんぼ_Happy_End.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "AliA",
+      "has_synced": true,
+      "path": "select/12_かくれんぼ_AliA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "かくれんぼ (Instrumental) / Kakurenbo (Instrumental)",
+      "artist": "ホワイトベリー / Whiteberry",
+      "has_synced": true,
+      "path": "select/13_かくれんぼ_(Instrumental)___Kakurenbo_(Instrumental)_ホワイトベリー___Whiteberry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/14_かくれんぼ_Suara.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "かくれんぼ -オーケストラアレンジver.-",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/15_かくれんぼ_-オーケストラアレンジver.-_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "Whiteberry",
+      "has_synced": false,
+      "path": "select/16_かくれんぼ_Whiteberry.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "かくれんぼ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/17_かくれんぼ_優里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かくれんぼ",
+      "artist": "AliA",
+      "has_synced": false,
+      "path": "select/pl_01_かくれんぼ_AliA.txt"
+    }
+  ]
+}
