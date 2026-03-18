@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "かくれんぼ",
   "base_artist": "AliA",
-  "createdAt": "2025-12-13T09:21:02.714143Z",
+  "createdAt": "2026-03-18T15:00:14.971416Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,24 @@
       "artist": "AliA",
       "has_synced": false,
       "path": "select/pl_01_かくれんぼ_AliA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "かくれんぼ",
+      "artist": "AliA",
+      "has_synced": true,
+      "path": "select/localdb_01_かくれんぼ_AliA.lrc",
+      "repo_name": "HC3oNBE3wY4"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "かくれんぼ",
+      "artist": "AliA",
+      "has_synced": true,
+      "path": "select/localdb_02_かくれんぼ_AliA.lrc",
+      "repo_name": "oi8ArKYLwBY"
     }
   ]
 }
